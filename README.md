@@ -20,3 +20,14 @@ This repository includes the official PDF documentation that proves idea authors
 **Place of Birth:** Imider, Morocco  
 **Date of Idea Creation:** 25 June 2025  
 **License:** Public timestamp for proof of originality and creative ownership
+## ⚖️ Legal & Commercial Use Terms
+
+This idea is the original intellectual property of **Taoufik Ousaadan** (b. 1992), officially documented on GitHub on 25 June 2025.
+
+Any use of this concept — including personal, academic, or commercial — must comply with the following terms:
+
+- Explicit credit to the original creator: **Taoufik Ousaadan**
+- Mandatory revenue share of **45%** from any profit directly or indirectly generated from this idea
+- Written approval from the author before launching any commercial version or implementation
+
+Failure to comply with these terms constitutes unauthorized use of protected intellectual property and may lead to legal action.
