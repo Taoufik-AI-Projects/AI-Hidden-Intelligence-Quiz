@@ -31,3 +31,12 @@ Any use of this concept — including personal, academic, or commercial — must
 - Written approval from the author before launching any commercial version or implementation
 
 Failure to comply with these terms constitutes unauthorized use of protected intellectual property and may lead to legal action.
+---
+
+## 📬 Contact
+
+For licensing inquiries, partnership requests, or commercial use of this concept, please contact:
+
+📧 **Email:** [taoufikai.legal@gmail.com](mailto:taoufikai.legal@gmail.com)
+
+All commercial use of this idea requires written approval and a 45% revenue share as outlined above.
